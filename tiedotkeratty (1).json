@@ -1,0 +1,22 @@
+{
+  "tuntikirjaus" : [
+      {
+        "nimi" : "Joku Ahtiainen",
+        "tunnit" : "7,00h",
+        "asiakas" : "Mokkula",
+        "työ" : "Demo Solutions Oy - tilatuttyöt",
+        "vaihe" : "Integraatiotestaus",
+        "integraatiotestaus" : "Tilannekatsaus"
+        
+      },
+      {
+        "nimi" : "Joku Ahtiainen",
+        "tunnit" : "7,50h",
+        "asiakas" : "Mokkula",
+        "työ" : "Demo Solutions Oy - tilatuttyöt",
+        "vaihe" : "Integraatiotestaus",
+        "integraatiotestaus" : "Tilannekatsaus2"
+      
+      }
+  ]
+}

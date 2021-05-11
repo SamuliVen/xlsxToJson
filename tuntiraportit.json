@@ -1,0 +1,1316 @@
+[
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Tilannekatsaus",
+        "Päiväys": "02.11.2020",
+        "Tunnit": 7.5,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Testaustietojen muokkausta",
+        "Päiväys": "03.11.2020",
+        "Tunnit": 7.0,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Tilannekatsaus & Asiakastestaus GFS",
+        "Päiväys": "09.11.2020",
+        "Tunnit": 7.5,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Tilannekatsaus",
+        "Päiväys": "16.11.2020",
+        "Tunnit": 7.5,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Tilannekatsaus",
+        "Päiväys": "23.11.2020",
+        "Tunnit": 7.5,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Tilannekatsaus",
+        "Päiväys": "30.11.2020",
+        "Tunnit": 7.5,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Asiakastestaus Winhit",
+        "Päiväys": "04.11.2020",
+        "Tunnit": 7.5,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Asiakastestaus GFS",
+        "Päiväys": "05.11.2020",
+        "Tunnit": 8.0,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Asiakastestaus GFS",
+        "Päiväys": "06.11.2020",
+        "Tunnit": 7.5,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Asiakastestaus GFS",
+        "Päiväys": "10.11.2020",
+        "Tunnit": 8.0,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Asiakastestaus GFS",
+        "Päiväys": "11.11.2020",
+        "Tunnit": 7.5,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Asiakastestaus GFS",
+        "Päiväys": "12.11.2020",
+        "Tunnit": 7.5,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Asiakastestaus GFS",
+        "Päiväys": "13.11.2020",
+        "Tunnit": 7.0,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Testi",
+        "Päiväys": "17.11.2020",
+        "Tunnit": 7.5,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Asiakastestaus GFS",
+        "Päiväys": "18.11.2020",
+        "Tunnit": 7.5,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Asiakastestaus GFS",
+        "Päiväys": "19.11.2020",
+        "Tunnit": 7.5,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Asiakastestaus GFS",
+        "Päiväys": "20.11.2020",
+        "Tunnit": 7.5,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Testauksen suunnittelua",
+        "Päiväys": "24.11.2020",
+        "Tunnit": 7.0,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Testauksen suunnittelua",
+        "Päiväys": "25.11.2020",
+        "Tunnit": 7.5,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Joku Ahtiainen",
+        "Kuvaus": "Asiakastestaus GFS",
+        "Päiväys": "26.11.2020",
+        "Tunnit": 8.0,
+        "Työ": "Mokkula",
+        "Vaihe": "Integraatiotestaus"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "02.11.2020",
+        "Tunnit": 6.0,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "03.11.2020",
+        "Tunnit": 2.0,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "04.11.2020",
+        "Tunnit": 2.0,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "05.11.2020",
+        "Tunnit": 2.0,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "06.11.2020",
+        "Tunnit": 3.5,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "09.11.2020",
+        "Tunnit": 4.0,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "10.11.2020",
+        "Tunnit": 1.5,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "11.11.2020",
+        "Tunnit": 3.0,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "12.11.2020",
+        "Tunnit": 3.5,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "13.11.2020",
+        "Tunnit": 3.0,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "16.11.2020",
+        "Tunnit": 2.0,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "17.11.2020",
+        "Tunnit": 3.0,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "18.11.2020",
+        "Tunnit": 5.0,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "19.11.2020",
+        "Tunnit": 4.0,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "20.11.2020",
+        "Tunnit": 3.0,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "23.11.2020",
+        "Tunnit": 5.0,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "24.11.2020",
+        "Tunnit": 1.5,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "25.11.2020",
+        "Tunnit": 2.5,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "26.11.2020",
+        "Tunnit": 1.5,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "27.11.2020",
+        "Tunnit": 1.5,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Etunimi Miettinen",
+        "Kuvaus": "Projektinhallinta",
+        "Päiväys": "30.11.2020",
+        "Tunnit": 4.0,
+        "Työ": "AARI",
+        "Vaihe": "Joku Sote hanke; projektipäällikkö/koordinaattorin tehtävät"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "02.11.2020",
+        "Tunnit": 6.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "02.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA Daily\n",
+        "Päiväys": "02.11.2020",
+        "Tunnit": 0.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: CAB\n",
+        "Päiväys": "02.11.2020",
+        "Tunnit": 0.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA, OIVA, MSBI käyttövaltuushallinta raportointi status\n",
+        "Päiväys": "02.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "03.11.2020",
+        "Tunnit": 5.75,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "03.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA Daily\n",
+        "Päiväys": "03.11.2020",
+        "Tunnit": 0.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: EJB Hakuongelmien ratkaisua   \n",
+        "Päiväys": "03.11.2020",
+        "Tunnit": 0.75,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "04.11.2020",
+        "Tunnit": 4.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "04.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: Yksikkökokous\n",
+        "Päiväys": "04.11.2020",
+        "Tunnit": 1.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA infra\n",
+        "Päiväys": "04.11.2020",
+        "Tunnit": 1.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: EJB -integraatio, sopimustyypin nimeen perustuvat haut/rajaukset\n",
+        "Päiväys": "04.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "05.11.2020",
+        "Tunnit": 5.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "05.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA Daily\n",
+        "Päiväys": "05.11.2020",
+        "Tunnit": 0.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: Tiimipalaveri\n",
+        "Päiväys": "05.11.2020",
+        "Tunnit": 1.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: X testiympäristön ja ympäristö/end-2-end testaus\n",
+        "Päiväys": "05.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "06.11.2020",
+        "Tunnit": 5.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "06.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Rhel\n",
+        "Päiväys": "06.11.2020",
+        "Tunnit": 1.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "09.11.2020",
+        "Tunnit": 5.75,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "09.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA Daily\n",
+        "Päiväys": "09.11.2020",
+        "Tunnit": 0.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: CAB\n",
+        "Päiväys": "09.11.2020",
+        "Tunnit": 0.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: Sopimustyyppi ja sopimustuote nimien muutokset aiheuttavat virheitä integraatiotestauksessa\n",
+        "Päiväys": "09.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: VL: Kehittäjien osaamiskategoriat\n",
+        "Päiväys": "09.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "10.11.2020",
+        "Tunnit": 1.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "10.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA Daily\n",
+        "Päiväys": "10.11.2020",
+        "Tunnit": 0.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Jokucom IT- ongelma liittyen Kauko VPN\n",
+        "Päiväys": "10.11.2020",
+        "Tunnit": 1.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOKU-datan ajatus-/väliviivallisten sopimustyyppinimien selvitystä\n",
+        "Päiväys": "10.11.2020",
+        "Tunnit": 1.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: Soha endtoend testaus\n",
+        "Päiväys": "10.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: ARKKU ja SOHA tulosteiden kumppanitestauksen toteutus\n",
+        "Päiväys": "10.11.2020",
+        "Tunnit": 1.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA käyttöönotto palveluiden siirto jatkuviin palveluihin\n",
+        "Päiväys": "10.11.2020",
+        "Tunnit": 1.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA- Jiratikettien läpikäyntiä\n",
+        "Päiväys": "10.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "11.11.2020",
+        "Tunnit": 3.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "11.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: Yksikkökokous\n",
+        "Päiväys": "11.11.2020",
+        "Tunnit": 1.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: Projektiryhmä\n",
+        "Päiväys": "11.11.2020",
+        "Tunnit": 1.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: Flown tekeminen\n",
+        "Päiväys": "11.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA RATKI flex ja RATKI raporttien testaus\n",
+        "Päiväys": "11.11.2020",
+        "Tunnit": 1.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "12.11.2020",
+        "Tunnit": 3.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "12.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: Tiimipalaveri\n",
+        "Päiväys": "12.11.2020",
+        "Tunnit": 1.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: ATJ-koulutusympäristön SOHA integraatio/selvitettävät asiat\n",
+        "Päiväys": "12.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Jokucom IT- ongelma liittyen Kauko VPN\n",
+        "Päiväys": "12.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: VL: Jokucom Info: \"Roolipelaajana\" projektiryhmässä - mitä odotuksia minulle laitetaan?\n",
+        "Päiväys": "12.11.2020",
+        "Tunnit": 1.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "13.11.2020",
+        "Tunnit": 5.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "13.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: WAS9 SOHA yhteistyö\n",
+        "Päiväys": "13.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: Flown päivitys loppuun\n",
+        "Päiväys": "13.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "16.11.2020",
+        "Tunnit": 6.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "16.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA Daily\n",
+        "Päiväys": "16.11.2020",
+        "Tunnit": 0.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: CAB\n",
+        "Päiväys": "16.11.2020",
+        "Tunnit": 0.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA ohry valmistelu\n",
+        "Päiväys": "16.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOKU Tuotanto datadumppi\n",
+        "Päiväys": "16.11.2020",
+        "Tunnit": 0.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "17.11.2020",
+        "Tunnit": 5.75,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "17.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA Daily\n",
+        "Päiväys": "17.11.2020",
+        "Tunnit": 0.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: Projektiryhmä\n",
+        "Päiväys": "17.11.2020",
+        "Tunnit": 1.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "18.11.2020",
+        "Tunnit": 5.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "18.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: Yksikkökokous\n",
+        "Päiväys": "18.11.2020",
+        "Tunnit": 1.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA Infra\n",
+        "Päiväys": "18.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "19.11.2020",
+        "Tunnit": 5.75,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "19.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: Tiimipalaveri\n",
+        "Päiväys": "19.11.2020",
+        "Tunnit": 1.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA Daily\n",
+        "Päiväys": "19.11.2020",
+        "Tunnit": 0.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "20.11.2020",
+        "Tunnit": 6.75,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "20.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "23.11.2020",
+        "Tunnit": 5.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "23.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA Daily\n",
+        "Päiväys": "23.11.2020",
+        "Tunnit": 0.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: CAB\n",
+        "Päiväys": "23.11.2020",
+        "Tunnit": 0.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: Haasteita SOHA-OIVA testauksessa\n",
+        "Päiväys": "23.11.2020",
+        "Tunnit": 0.75,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: ATJ Lontoo SOKU yhteyden kääntö SOHA HYTEen\n",
+        "Päiväys": "23.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA ja poliisin toimipaikat\n",
+        "Päiväys": "23.11.2020",
+        "Tunnit": 0.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "24.11.2020",
+        "Tunnit": 5.75,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "24.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA Daily\n",
+        "Päiväys": "24.11.2020",
+        "Tunnit": 0.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous\n",
+        "Päiväys": "24.11.2020",
+        "Tunnit": 1.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "25.11.2020",
+        "Tunnit": 5.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "25.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: Yksikkökokous\n",
+        "Päiväys": "25.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA järjestelmä dokumentaatio OSA2\n",
+        "Päiväys": "25.11.2020",
+        "Tunnit": 1.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "26.11.2020",
+        "Tunnit": 5.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "26.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: Tiimipalaveri\n",
+        "Päiväys": "26.11.2020",
+        "Tunnit": 1.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA Daily\n",
+        "Päiväys": "26.11.2020",
+        "Tunnit": 0.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "27.11.2020",
+        "Tunnit": 3.75,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "27.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: Lontoo \n",
+        "Päiväys": "27.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA-projektiryhmä\n",
+        "Päiväys": "27.11.2020",
+        "Tunnit": 1.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: Tietohallinnon sisäinen tietoisku\n",
+        "Päiväys": "27.11.2020",
+        "Tunnit": 1.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA tilanneraportti\n",
+        "Päiväys": "27.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "SOHA kommunikointi ja asioiden edistäminen.\n",
+        "Päiväys": "30.11.2020",
+        "Tunnit": 5.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Sähköpostien ja niissä olevien materiaalien luku.\n",
+        "Päiväys": "30.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA Daily\n",
+        "Päiväys": "30.11.2020",
+        "Tunnit": 0.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: CAB\n",
+        "Päiväys": "30.11.2020",
+        "Tunnit": 0.25,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA/SOKU - Ajoneuvojärjestelmät\n",
+        "Päiväys": "30.11.2020",
+        "Tunnit": 0.5,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": "Demo Solutions OY - tilatut työt",
+        "Henkilö": "Tommi Jokunen",
+        "Kuvaus": "Kokous: SOHA OHRY\n",
+        "Päiväys": "30.11.2020",
+        "Tunnit": 1.0,
+        "Työ": "Jokucom",
+        "Vaihe": "ICT-PO-konsultointi - Jokunen"
+    },
+    {
+        "Asiakas": null,
+        "Henkilö": null,
+        "Kuvaus": null,
+        "Päiväys": null,
+        "Tunnit": 368.5,
+        "Työ": null,
+        "Vaihe": null
+    }
+]
