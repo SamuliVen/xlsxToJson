@@ -1,5 +1,4 @@
 import pandas as pandas
-from pandas import DataFrame
 import json
 
 # Reading the excel file and naming it as dataframe
